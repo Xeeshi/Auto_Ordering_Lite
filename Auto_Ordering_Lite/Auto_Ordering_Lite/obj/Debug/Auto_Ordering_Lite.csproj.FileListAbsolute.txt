@@ -1,0 +1,112 @@
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.exe.config
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.Properties.Resources.resources
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.exe.config
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.exe
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.pdb
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\itextsharp.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\MetroFramework.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Chart.Windows.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.DataSource.WinForms.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Diagram.Windows.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.DocIO.Base.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Grid.Base.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Grid.Grouping.Base.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Grid.Grouping.Windows.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Grid.Grouping.Windows.XmlSerializers.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Grid.Windows.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Grid.Windows.XmlSerializers.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.GridConverter.Windows.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.GridHelperClasses.Windows.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Grouping.Base.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Linq.Base.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.PivotAnalysis.Windows.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Shared.Base.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Shared.Windows.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Tools.Base.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.Tools.Windows.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\EnvDTE.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\stdole.dll
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\itextsharp.xml
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.CopyComplete
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.exe
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.pdb
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.Dashboard.resources
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Admin.Loading.resources
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.exe.config
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.exe
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\itextsharp.xml
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.exe.config
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.Dashboard.resources
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.exe
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.pdb
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.pdb
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\MaxBachat21.ScheduleLog.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.Dashboard.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.Properties.Resources.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\MaxBachat21.ScheduleLog.resources
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.exe.config
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.exe
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.pdb
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\itextsharp.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+C:\Users\admin\Desktop\Maxbachat PO Version Manage (codes)\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.Dashboard.resources
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\MaxBachat21.ScheduleLog.resources
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.exe
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.pdb
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.exe.config
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.exe
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.pdb
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\itextsharp.xml
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.exe.config
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.exe
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\bin\Debug\Auto_Ordering_Lite.pdb
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\bin\Debug\itextsharp.xml
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\bin\Debug\Syncfusion.DataSource.WinForms.xml
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.Dashboard.resources
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\obj\Debug\MaxBachat21.ScheduleLog.resources
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.exe
+C:\Users\Administrator\Desktop\Auto_Ordering_Lite\Auto_Ordering_Lite - Target then DOS\Auto_Ordering_Lite\obj\Debug\Auto_Ordering_Lite.pdb
